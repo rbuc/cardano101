@@ -1,6 +1,6 @@
-# Minimal Mistakes remote theme starter
+# Welcome to Cardano [ADA] 101's Codebase
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Current Build Status: ![Build Status](https://travis-ci.com/rbuc/cardano101.svg?branch=master)
 
 Contains basic configuration to get you a site with:
 
