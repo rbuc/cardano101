@@ -1,7 +1,5 @@
 # Welcome to Cardano [ADA] 101's Codebase
 
-Current Build Status: ![Build Status](https://travis-ci.com/rbuc/cardano101.svg?branch=master)
-
 Contains basic configuration to get you a site with:
 
 - Sample posts.
