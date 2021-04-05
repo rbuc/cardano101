@@ -1,4 +1,8 @@
-# Welcome to Cardano [ADA] 101's Codebase
+# Welcome to Cardano101.info's Codebase
+
+---
+
+Live site: [Cardano101](www.cardano101.info)
 
 Contains basic configuration to get you a site with:
 
